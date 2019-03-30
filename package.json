@@ -1,0 +1,26 @@
+{
+  "name": "react16-pratice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernieyang09/react16-pratice.git"
+  },
+  "author": "Ernie Yang <https://github.com/ernieyang09>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernieyang09/react16-pratice/issues"
+  },
+  "homepage": "https://github.com/ernieyang09/react16-pratice#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
